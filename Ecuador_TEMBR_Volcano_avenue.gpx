@@ -2,9 +2,10 @@
 <gpx version="1.1" creator="GPX Editor 1.7.12.1731" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
 <metadata>
 	<bounds minlat="-1.6745329" minlon="-79.0242934" maxlat="-0.2166806" maxlon="-78.3638477" />
+	<route-title>Ecuador</route-title>
 </metadata>
 <rte>
-	<name>2019-05-19_18-50_Sun</name>
+	<name>Ecuador</name>
 	<rtept lat="-0.2166806" lon="-78.379631">
 		<desc>174 m</desc>
 		<extensions><time>27</time><offset>0</offset></extensions>
